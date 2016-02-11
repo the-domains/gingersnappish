@@ -1,0 +1,28 @@
+name: gingersnappish
+favicon: null
+layout_spectrum: 0.33404562110081315
+typography_spectrum: 0.20172444405034184
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.1444780754391104
+  lightness: 0.9604915420059115
+  saturation: 0.8864912607241422
+  rhythmicContrast: 0.09715776890516281
+purpose: []
